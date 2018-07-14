@@ -12,7 +12,7 @@ Bloc Jams is a free digital music player site that allows the user to listen to 
 
 
 ### **Explanation**
-Bloc Jams was my first major project during my career at Bloc.io. The site consists of a Landing (home) Page that provides information regarding the attractive features of the site, including being able to choose your own music, unlimited streaming, ad-free listening, and mobile enabled platforms to listen to music on the go from most mobile devices. From the home page you are able to navigate to the Library page (‘collections’). This page includes lists of albums that the user is free to choose. Once the user selects an album they are directed to an Album page that includes fully functional and interactive player bar. You can see the lists of songs within an album and can play, pause and skip songs at your discretion as well as adjust volume.  
+Bloc Jams was my first major project during my career at Bloc.io. The site consists of a Landing (home) Page that provides information regarding the attractive features of the site, including being able to choose your own music, unlimited streaming, ad-free listening, and mobile enabled platforms to listen to music on the go. From the home page you are able to navigate to the Library Page (‘collections’). This page includes lists of albums that the user is free to choose. Once the user selects an album they are directed to an Album Page that includes a fully functional and interactive player bar. Here the user can see the lists of songs within an album and can play, pause and skip songs at your discretion as well as adjust volume.  
 
 The project was split into two phases. Each phase was intended to develop a different group of skills needed in fronted-end web development. 
 
