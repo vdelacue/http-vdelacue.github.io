@@ -1,9 +1,25 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+phrase: Turn the music up!
+feature-img: "img/bloc-jams-header.png"
+thumbnail-path: "img/bloc_jams_logo.png"
+short-description: BlocJams Digital Music Player
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+### **Summary**
+Bloc Jams is a free digital music player site that allows the user to listen to the music of their choice. The site features unlimited streaming, ad-free, with the added feature of mobile enabled platforms. Users can listen to their music on the go or at home without limit or ad distractions.
+
+### **Explanation**
+
+
+### **Problem**
+
+
+### **Solution**
+
+
+### **Results**
+
+
+### **Conclusion**
