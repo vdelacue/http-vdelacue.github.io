@@ -12,29 +12,31 @@ Bloc Jams is a free digital music player site that allows the user to listen to 
 
 
 ### **Explanation**
-Bloc Jams was my first major project during my career at Bloc.io. The site consists of a Landing (home) Page that provides information regarding the attractive features of the site, including being able to choose your own music, unlimited streaming, ad-free listening, and mobile enabled platforms to listen to music on the go. From the home page you are able to navigate to the Library Page (‘collections’). This page includes lists of albums that the user is free to choose. Once the user selects an album they are directed to an Album Page that includes a fully functional and interactive player bar. Here the user can see the lists of songs within an album and can play, pause and skip songs at your discretion as well as adjust volume.  
+Bloc Jams was my first major project during my career at Bloc.io. The site consists of a Landing (home) Page that provides information regarding the attractive features of the site: including being able to choose your own music, unlimited streaming, ad-free listening, and mobile enabled platforms to listen to music on the go. From the home page the user is able to navigate to the Library Page (‘collections’). This page includes lists of albums that the user is free to choose. Once the user selects an album they are directed to an Album Page that includes a fully functional and interactive player bar with volume controls. Here the user can see the lists of songs within an album and can play, pause and skip songs at their discretion as well as adjust volume.  
 
-The project was split into two phases. Each phase was intended to develop a different group of skills needed in fronted-end web development. 
+The Bloc Jams project was split into two phases. Each phase was intended to develop a different group of skills needed in fronted-end web development. 
 
-#### Phase one of the application used:
+#### *Phase one* of the application used:
 >* **HTML** to provide the basic structure and backbone of the application layout.  
->* **CSS** to style and for responsiveness, creating the views needed.
+>* **CSS** to style and for flexible layouts, flexible images and cascading style sheet media queries that create the desired views.
 >* **Plain/Vanilla Javascript** to create responsiveness.
 
-From the start of Phase One Vanilla Javascript was utilized for animation and DOM Scripting for events and functionality. After the basic structure was setup some distinctive and attractive features were added with Vanilla Javascript. These features included loops that were used to populate albums in Collections and song rows in Album. In the Album page the states of the play/pause button were set and reset according to user interactivity. Click behavior and Event Listeners like MouseOver and MouseLeave were setup throughout the site to maximize user interactivity. Finally a fully functional player bar is found at the bottom of thevAlbum page with icons and and interactive seek bar and volume bar.
+From the start of *Phase One* Vanilla Javascript was utilized for animation and DOM Scripting for events and functionality. After the basic structure was setup some distinctive and attractive features were added with Vanilla Javascript. These features included loops that were used to populate albums in Collections and song rows in Album. In the Album page the states of the play/pause button were set and reset according to user interactivity. Click behavior and Event Listeners like MouseOver and MouseLeave were setup throughout the site to maximize user interactivity. Finally a fully functional player bar is found at the bottom of the Album page with icons and an adjustable seek bar and volume bar.
 
-The site at this point was already functional and could be deemed finished, however, to delve further into developing the fundamental tools of front-end web development I was tasked with using 'JQuery' to refactor a large portion of the 'Vanilla Javascript'. Doing so consolidated the lengthy and complex code that was needed to create optimal responsiveness. 
+The site at this point was already functional and could be deemed finished, however, to delve further into developing the fundamental tools of front-end web development I was tasked with using 'JQuery' to refactor a large portion of the 'Vanilla Javascript'. Doing so consolidated the lengthy and complex Plain Javascript code that was needed to create optimal responsiveness. Now phase one was complete and with it a strong foundation in frontend web development. 
 
-Phase two consisted of rebuilding this entire application from the ground up using React, a framework that requires a solid foundation in frontend web development. Thus phase two would not have had the same impact it did without phase one. I needed to build the application in basic HTML, CSS, and Javascript to appreciate the better suited framework for single page applications, React. During phase two a lot of creative liberties were exercised and executed.
+But wait there is more ...
 
-#### Phase two of the application used:
+*Phase two* consisted of rebuilding this entire application from the ground up using React, a framework that requires a solid foundation in frontend web development. Thus *phase two* would not have had the same impact it did without *phase one*. I needed to build the application in basic HTML, CSS, and Javascript to appreciate the better suited framework for single page applications, React. During phase two a lot of creative liberties were exercised and executed.
+
+#### *Phase two* of the application used:
 >* **React** as the more effecient framework for single-page application.
 >* **JSX** to produce React "elements" using a declarative XML like syntax that works with Javascript.
 >* **bootstrap** and **CSS** for responsiveness and to style the page views.
 >* **babel** to compile Javascript.
 >* **npm** to manage and install various Javascript Node.js packages.
 
-
+In *phase two* I chose to style the pages completely differently using CSS and bootstrap. below you can see the phase one home page vs phase two home page. Although both have accomplish the same end result phase two is written with a lot less code and took a tenth of the time to create. However, because of phase one I know what phase two is doing behind the scenes and what the browser is reading from the code. 
 
 ### **Problem**
 Lengthy complex code
