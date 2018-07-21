@@ -25,7 +25,7 @@ theme_settings:
   dribbble: ""
   facebook: "vanessa de la cuetara"
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "vdelacue"
   google_plus:
   instagram: "vdelacue"
   linkedin:  # Full URL
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-122711995-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
