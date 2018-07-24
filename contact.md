@@ -10,7 +10,7 @@ Please feel free to contact me using the form below. Don't worry you're email is
 <form action="https://getsimpleform.com/messages?form_api_token=4e23b1f32d4fd02592ec17823f9b4546" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!-- #2 -->
-  <input type='hidden' name='redirect_to' value='http://vdelacue.com/thank-you/' />
+  <input type='hidden' name='redirect_to' value='http://delacue.com/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
